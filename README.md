@@ -24,7 +24,7 @@ F12 WKL TKL
 
 1.5mm internal brass sheet 
 
-top and oring mounting 
+top (Jane v2) and oring mountings
 
 h87c PCB by Hiney in both north and south faching spacebar wire should be compatible with this keyboard - other pcbs that have same footprint should work as well 
 
