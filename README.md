@@ -26,8 +26,8 @@ F12 WKL TKL
 
 top and oring mounting 
 
-h87c PCB by hiney in both north and south faching spacebar wire should be compatible with this keyboard - other pcbs that have same footprint should work as well 
+h87c PCB by Hiney in both north and south faching spacebar wire should be compatible with this keyboard - other pcbs that have same footprint should work as well 
 
-disclaimer: i have not prototyped this and there are possibilities that it will not work. i am not responsible for replacing faulty products
+disclaimer: Use it at your own risk since I have not prototyped this yet. I am not responsible of anything :clueless: 
 
 feel free to contact me @jing#3514 on discord 
