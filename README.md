@@ -1,5 +1,5 @@
 # JingTKL
-My take on classic tkl with 4.5 degree typing angle and ~17 front height. 
+My take on classic tkl with 4.5 degree typing angle and ~16.6 front height. 
 
 
 
