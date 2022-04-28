@@ -25,6 +25,7 @@ V1.2: Corsa sides, subtle lip, rounder HG side
 
 Plates:
 Full plate, Half plate, Smol plate (use with half plate for different feel and sounds of the alpha
+
 ![.!](https://i.imgur.com/FtJORii.png)
 ![.!](https://i.imgur.com/OEt2NrS.png)
 ![.!](https://i.imgur.com/ORYdqeX.png)
