@@ -28,6 +28,10 @@ V1.3: Harsher lip, whale kinda sides
 ![.!](https://i.imgur.com/Ro6bXxd.png)
 ![.!](https://i.imgur.com/Bpozbn4.png)
 
+V1.4: A humble rectanble 
+
+![.!](https://i.imgur.com/SrDEKul.png)
+![.!](https://i.imgur.com/afxLi1Y.png)
 
 Plates:
 Full plate, Half plate, Smol plate (use with half plate for different feel and sounds of the alpha
