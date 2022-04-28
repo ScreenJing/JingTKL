@@ -23,6 +23,12 @@ V1.2: Corsa sides, subtle lip, rounder HG side
 ![.!](https://i.imgur.com/sgZrGSM.png)
 ![.!](https://i.imgur.com/BHAEJFi.png)
 
+V1.3: Harsher lip, whale kinda sides
+
+![.!](https://i.imgur.com/Ro6bXxd.png)
+![.!](https://i.imgur.com/Bpozbn4.png)
+
+
 Plates:
 Full plate, Half plate, Smol plate (use with half plate for different feel and sounds of the alpha
 
