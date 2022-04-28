@@ -30,12 +30,13 @@ Full plate, Half plate, Smol plate (use with half plate for different feel and s
 ![.!](https://i.imgur.com/OEt2NrS.png)
 ![.!](https://i.imgur.com/ORYdqeX.png)
 
+~16.6mm front height (adjusted without bumpons) 
+
+![.!](https://i.imgur.com/EsAorlH.png)
 
 4.5 degree typing angle
 
 F12 WKL TKL
-
-~16.6mm front height (adjusted without bumpons) 
 
 1.5mm internal brass sheet 
 
