@@ -5,6 +5,8 @@ My take on classic tkl with 4.5 degree typing angle and ~16.6mm front height
 
 Join Discord for more information and updates: https://discord.gg/Swg5JHKfUW 
 
+all tops and bottoms are interchangeable between all models unless stated otherwise
+
 V1.0: Has more curves - more experimental design language
 
 ![.!](https://i.imgur.com/3sDSfEy.png)
@@ -15,6 +17,12 @@ V1.1: leaning towards the timeless design featuring HG side
 
 ![.!](https://i.imgur.com/Ejca4ar.png)
 ![.!](https://i.imgur.com/dsFRP8m.png)
+
+V1.2: Corsa sides, subtle lip, rounder HG side
+
+![.!](https://i.imgur.com/sgZrGSM.png)
+![.!](https://i.imgur.com/BHAEJFi.png)
+
 
 4.5 degree typing angle
 
