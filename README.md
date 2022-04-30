@@ -35,6 +35,9 @@ V1.4: A humble rectanble
 
 V1.4 with 2 weight: A not humble rectangle (uncompatible parts with previous other versions) 
 
+![.!](https://i.imgur.com/6XOiLCF.png)
+![.!](https://i.imgur.com/8M1XWsV.png)
+
 Plates:
 Full plate, Half plate, Smol plate (use with half plate for different feel and sounds of the alpha
 
@@ -42,9 +45,10 @@ Full plate, Half plate, Smol plate (use with half plate for different feel and s
 ![.!](https://i.imgur.com/OEt2NrS.png)
 ![.!](https://i.imgur.com/ORYdqeX.png)
 
-~16.6mm front height (adjusted without bumpons) 
+~16.6mm front height (adjusted without bumpons) ~19.5mm EKH
 
 ![.!](https://i.imgur.com/EsAorlH.png)
+![.!](https://i.imgur.com/Tsnno2L.png)
 
 4.5 degree typing angle
 
@@ -53,6 +57,9 @@ F12 WKL TKL
 1.5mm internal brass sheet 
 
 Mounting: top (Jane v2) in both screws and tadpole / gummy worm oring
+
+![.!](https://i.imgur.com/eWGbZQS.png)
+
 
 h87c PCB by Hiney in both north and south faching spacebar wire should be compatible with this keyboard - other pcbs that have same footprint should work as well 
 
