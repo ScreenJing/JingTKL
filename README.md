@@ -1,5 +1,5 @@
 # JingTKL
-My take on classic tkl with 4.5 degree typing angle and ~16.6mm front height 
+My take on classic tkl with 4.5 degree typing angle and ~16.6mm front height. All versions are compatible with GEONWORKS' tadpoles. 
 
 
 
@@ -33,6 +33,8 @@ V1.4: A humble rectanble
 ![.!](https://i.imgur.com/SrDEKul.png)
 ![.!](https://i.imgur.com/afxLi1Y.png)
 
+V1.4 with 2 weight: A not humble rectangle (uncompatible parts with previous other versions) 
+
 Plates:
 Full plate, Half plate, Smol plate (use with half plate for different feel and sounds of the alpha
 
@@ -50,7 +52,7 @@ F12 WKL TKL
 
 1.5mm internal brass sheet 
 
-top (Jane v2) and oring mountings
+Mounting: top (Jane v2) in both screws and tadpole / gummy worm oring
 
 h87c PCB by Hiney in both north and south faching spacebar wire should be compatible with this keyboard - other pcbs that have same footprint should work as well 
 
@@ -58,4 +60,4 @@ M3 counter sunk screws are used for case and weight, M2.5 for mountings
 
 disclaimer: Use it at your own risk since I have not prototyped this yet. I am not responsible of anything :clueless: 
 
-feel free to contact me @jing#3514 on discord 
+feel free to contact me @jing#3514 on discord for any questions, comments, or concerns :D 
